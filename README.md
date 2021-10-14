@@ -1,4 +1,4 @@
-# phone_authentification
+# phone_authentication
 
 A new Flutter project.
 
